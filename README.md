@@ -8,4 +8,4 @@ Repository untuk menyimpan/mengumpulkan tugas Praktikum PBO semester 4 2022.
 
 # Daftar Tugas
 Tugas ada di branch pada repository ini.
-- Tugas 1 (Konverter Suhu) 
+- Tugas 1 (Konverter Suhu) [Source Code](https://github.com/mendekam/Tugas-Praktikum-PBO/tree/tugas1)
